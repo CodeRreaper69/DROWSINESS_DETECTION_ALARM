@@ -36,7 +36,7 @@ This Drowsiness Detection System is a Python-based project using dlib and OpenCV
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/srijitt/drowsiness-detection.git
+   git clone https://github.com/CodeRreaper69/DROWSINESS_DETECTION_ALARM.git
    
 2. Install the required dependencies:
    ```bash
@@ -61,3 +61,4 @@ This Drowsiness Detection System is a Python-based project using dlib and OpenCV
 - **Healthcare**: In healthcare settings, especially in intensive care units (ICUs), nurses and medical professionals can benefit from drowsiness detection to ensure they stay alert during long shifts, improving patient care.
 
 - **Security and Surveillance**: Drowsiness detection can be integrated into security and surveillance systems to ensure that security personnel and surveillance operators remain attentive while monitoring critical areas.
+- For DLIB installation refer - [DLIB_WHEELS_FOR_PYTHON](https://github.com/z-mahmud22/Dlib_Windows_Python3.x))
