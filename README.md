@@ -61,4 +61,4 @@ This Drowsiness Detection System is a Python-based project using dlib and OpenCV
 - **Healthcare**: In healthcare settings, especially in intensive care units (ICUs), nurses and medical professionals can benefit from drowsiness detection to ensure they stay alert during long shifts, improving patient care.
 
 - **Security and Surveillance**: Drowsiness detection can be integrated into security and surveillance systems to ensure that security personnel and surveillance operators remain attentive while monitoring critical areas.
-- For DLIB installation refer - [DLIB_WHEELS_FOR_PYTHON](https://github.com/z-mahmud22/Dlib_Windows_Python3.x))
+- For DLIB installation refer - [DLIB_WHEELS_FOR_PYTHON](https://github.com/z-mahmud22/Dlib_Windows_Python3.x)
