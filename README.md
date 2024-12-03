@@ -44,7 +44,7 @@ This Drowsiness Detection System is a Python-based project using dlib and OpenCV
 
 3. Run the Drowsiness Detection System:
    ```bash
-   python drowsiness_detection.py
+   python main_edit.py
 
 ## Applications
 - **Driver Monitoring Systems (DMS)**: Implementing the drowsiness detection system in vehicles can help prevent accidents caused by driver fatigue. It can alert drivers when they are becoming drowsy or distracted, potentially saving lives on the road.
